@@ -1,1 +1,1 @@
-# seldon-core
+# KServe Demo 
